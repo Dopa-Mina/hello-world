@@ -1,3 +1,4 @@
+// prints hello world
 package main
 
 import (
@@ -6,6 +7,9 @@ import (
 
 func main() {
 	variableToPrint := "bar"
+
 	fmt.Println(variableToPrint)
+
 	fmt.Println("hello world")
+
 }
