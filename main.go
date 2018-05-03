@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	foo := "bar"
-	fmt.Println(foo)
+	variableToPrint := "bar"
+	fmt.Println(variableToPrint)
 	fmt.Println("hello world")
 }
